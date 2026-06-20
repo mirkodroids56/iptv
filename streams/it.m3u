@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RadioRidersItaliaTV.it@HD",Radio Riders Italia TV (720p)
+https://radioriders.dedyn.io/tv/stream/index.m3u8
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="7YOUME.it@HD",7 YOU & ME (720p)
